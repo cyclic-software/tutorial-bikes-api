@@ -4,6 +4,8 @@
 
 [![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/eludadev/bikes-api)
 
+This repository is based on the REST Tutorial you can find here: [Getting Started with a RESTful API](https://docs.cyclic.sh/tutorials/rest-api-and-dynamodb/part-1)
+
 ## Fill Database with Mock Data
 
 ```bash
